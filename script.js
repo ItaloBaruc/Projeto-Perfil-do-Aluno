@@ -7,7 +7,7 @@ function mudarImagem(direcao) {
     if (imagemAtual < 1) imagemAtual = totalImagens;
     if (imagemAtual > totalImagens) imagemAtual = 1;
 
-    const caminhoImagem = `imagens/Super-Saiyajin-3 perfil${imagemAtual}.jpg`;
+    const caminhoImagem = `super-saiyajin3-perfil${imagemAtual}.jpg`;
     document.getElementById("fotoPerfil").src = caminhoImagem;
 }
 
