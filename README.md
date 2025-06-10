@@ -5,6 +5,8 @@ Este repositório contém o desenvolvimento progressivo do meu projeto de perfil
 ---
 
 # Fase 1 – Estrutura Básica em HTML
+![Fase 1 - redeme](https://github.com/user-attachments/assets/85462509-5731-4974-9f77-e3bad72827dc)
+![Fase 1 (2) - redeme](https://github.com/user-attachments/assets/8c212d93-711a-421c-8f49-adacbf4b0959)
 
 ## Descrição
 Na fase introdutoria do porjeto, foi dado início a criação da primeira versão do perfil com informações pessoais e acadêmicas estruturadas apenas em HTML. Um destaque visual é dado pela imagem estática do personagem Goku. <!--Porém eu utilizei o nome Goku Super Saiyajin 3-->
@@ -19,6 +21,8 @@ Na fase introdutoria do porjeto, foi dado início a criação da primeira versã
 ---
 
 # Fase 2 – Estilização e Galeria Interativa
+![Fase 2 - redeme](https://github.com/user-attachments/assets/0641f1b2-6a5a-4eec-be5f-180ef79df602)
+![Fase 2 (2) - redeme](https://github.com/user-attachments/assets/85295009-a7f2-45f1-9541-4130dee72342)
 
 ## Descrição
 Nesta fase eu evolui o projeto com a adição de estilo visual usando CSS e interatividade básica com JavaScript. Uma galeria de imagens do perfil permite ao usuário alterar entre três fotos usando setas.
@@ -44,6 +48,8 @@ Nesta fase eu evolui o projeto com a adição de estilo visual usando CSS e inte
 ---
 
 # Fase 3 – Funcionalidades Avançadas e Validação
+![Fase 3 - redeme](https://github.com/user-attachments/assets/0a26b53c-f8a6-41e8-a454-990cb10a4627)
+![Fase 3 (2) - redeme](https://github.com/user-attachments/assets/7a0e0476-212e-4602-bff6-41cb9dd5c686)
 
 ## Descrição
 Na fase final eu aprimorei ainda mais a interface com funcionalidades dinâmicas, como: 
