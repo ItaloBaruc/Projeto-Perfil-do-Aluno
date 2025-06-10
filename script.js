@@ -10,6 +10,6 @@ function mudarImagem(direcao) {
         imagemAtual = 1;
     }
 
-    const caminhoImagem = `imagens/Super-Saiyajin-3 perfil${imagemAtual}.jpg`;
+    const caminhoImagem = `super-saiyajin3-perfil${imagemAtual}.jpg`;
     document.getElementById("fotoPerfil").src = caminhoImagem;
 }
