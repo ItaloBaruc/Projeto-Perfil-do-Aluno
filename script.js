@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const cpf = document.getElementById("cpf").value;
         const regex = /^\d{3}\.\d{3}\.\d{3}-\d{2}$/;
         if (!regex.test(cpf)) {
-            alert("CPF inválido. Formato correto: ddd.ddd.ddd-dd");
+            alert("CPF inválido. Formato correto: 000.000.000-00");
         }
     };
 
@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const email = document.getElementById("email").value;
         const regex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
         if (!regex.test(email)) {
-            alert("E-mail inválido. Exemplo: nome@dominio.com");
+            alert("E-mail inválido. Exemplo: seu.nome@dominio.com");
         }
     };
 
